@@ -24,7 +24,7 @@ hak_CP_FINAL_SBER_2020_KeyIdea/backend_microservices/keyIdeaTelebot.ipynb
    - speech_to_text: голосовой ассистент распознает голосовые команды и умеет выполнять как простые действия (удалить сообщене, пометить как прочитанное), так и целые сценарии (делегирование задачи + приложенный)
 
  - использование технологий Yandex.SpeechKit (https://cloud.yandex.ru/docs/speechkit/quickstart)
- - для запуска нелобходимо добавить:
+ - для запуска необходимо добавить:
    - API_TOKEN telegram (https://tlgrm.ru/docs/bots/api)
    - IAM_TOKEN yandex (https://cloud.yandex.ru/docs/iam/operations/iam-token/create)
    - FOLDER_ID yandex (идентификатор каталога Yandex.Cloud)
