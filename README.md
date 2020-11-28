@@ -28,5 +28,6 @@ hak_CP_FINAL_SBER_2020_KeyIdea/backend_microservices/keyIdeaTelebot.ipynb
    - API_TOKEN telegram (https://tlgrm.ru/docs/bots/api)
    - IAM_TOKEN yandex (https://cloud.yandex.ru/docs/iam/operations/iam-token/create)
    - FOLDER_ID yandex (идентификатор каталога Yandex.Cloud)
- - в папке speech.zip содержатся звуковые файлы в формате .ogg (подробнее про формат аудио для Yandex.SpeechKit можно прочитать тут: https://cloud.yandex.ru/docs/speechkit/stt/formats)
+ - в папке hak_CP_FINAL_SBER_2020_KeyIdea/backend_microservices/speech.zip содержатся звуковые файлы в формате .ogg (подробнее про формат аудио для Yandex.SpeechKit можно прочитать тут: https://cloud.yandex.ru/docs/speechkit/stt/formats)
+ - в рамках демонстрации работы прототипа голосового помощника был создан telegram-бот, telegram отлично интегрируется с Yandex.SpeechKit в части работы со звуком
  
