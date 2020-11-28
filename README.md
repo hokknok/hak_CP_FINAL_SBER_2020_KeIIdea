@@ -33,6 +33,12 @@ hak_CP_FINAL_SBER_2020_KeyIdea/backend_microservices/keyIdeaTelebot.ipynb
  - в рамках демонстрации работы прототипа голосового помощника был создан telegram-бот @Sberbank_Digital_Manager_bot, telegram "бесшовно" интегрируется с Yandex.SpeechKit в части работы со звуком (не требуется дополнительного перекодирования аудиодорожек)
  - в данным момент бот контактирует только с его разработчиком (@lividhour), прочие сообщения фильтруются
 
+#ФИЧА 4: Интеграция с почтовым сервером (gmail)
+
+ - возможно получение писем по протоколу imap: mail = imaplib.IMAP4_SSL('imap.gmail.com'); mail.select('inbox')
+ - возможно отправка писем по протоколу smtp: server = smtplib.SMTP('smtp.gmail.com:587'); server.sendmail(fromaddr, toaddr, msg.as_string())
+
+
 Если вы хотите получить доступ к чатботу, свяжитесь с контактными лицами от команды:
 
 - Васичкин Евгений
