@@ -6,7 +6,7 @@ hak_CP_FINAL_SBER_2020_KeyIdea/data_analysis/groupMessagesLDA.ipynb
  - текстовая предобработка (очистка сообщений от разметки, выделение слов, лемматизация, стемминг, приведение к нормальной форме, удаление стоп-слов)
  - составление n-gram (для захвата локального контекста)
  - алгоритм LDA применяется к пулу входяших/исходящих сообщений inbox.json/outbox.json
- - отрисовка WordCloud для визуализации состава тематики и кореектного нейминга
+ - отрисовка WordCloud для визуализации состава тематики и корректного нейминга
  
  
 #ФИЧА 2: Суммаризация текстовых сообщений (длинный текст -> короткий текст)
@@ -28,4 +28,5 @@ hak_CP_FINAL_SBER_2020_KeyIdea/backend_microservices/keyIdeaTelebot.ipynb
    - API_TOKEN telegram (https://tlgrm.ru/docs/bots/api)
    - IAM_TOKEN yandex (https://cloud.yandex.ru/docs/iam/operations/iam-token/create)
    - FOLDER_ID yandex (идентификатор каталога Yandex.Cloud)
+ - в папке speech.zip содержатся звуковые файлы в формате .ogg (подробнее про формат аудио для Yandex.SpeechKit можно прочитать тут: https://cloud.yandex.ru/docs/speechkit/stt/formats)
  
