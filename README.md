@@ -13,7 +13,8 @@ hak_CP_FINAL_SBER_2020_KeyIdea/data_analysis/groupMessagesLDA.ipynb
 hak_CP_FINAL_SBER_2020_KeyIdea/backend_microservices/textSummarizatiopnGPT.ipynb
 
  - абстрактивная суммаризация (от изначального текста берется порядка 10%, остальное "дописывает" модель, результирующий текст с учетом дописанного моделью "хвоста" короче изначального сообщения)
- - flask сервис с предобученным GPT от SberDevices и SberAI (https://github.com/sberbank-ai/ru-gpts)
+ - flask-ngrok сервис (виден из интернета после запуска) с предобученным GPT от SberDevices и SberAI (https://github.com/sberbank-ai/ru-gpts)
+ - формат обращения к REST-API: https://url?prompt_text=%some_text%
  
  
 #ФИЧА 3: Голосовой помощник (по типу Яндекс.Алиса, СберСалют и т.д.)
