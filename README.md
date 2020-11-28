@@ -27,4 +27,5 @@ hak_CP_FINAL_SBER_2020_KeIIdea/backend_microservices/keyIdeaTelebot.ipynb
  - для запуска нелобходимо добавить:
    - API_TOKEN telegram (https://tlgrm.ru/docs/bots/api)
    - IAM_TOKEN yandex (https://cloud.yandex.ru/docs/iam/operations/iam-token/create)
+   - FOLDER_ID yandex (идентификатор каталога Yandex.Cloud)
  
