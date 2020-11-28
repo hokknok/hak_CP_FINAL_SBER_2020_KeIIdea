@@ -1,7 +1,7 @@
 # hak_CP_FINAL_SBER_2020_KeyIdea
 
 #ФИЧА 1: Агрегация текстовых сообщений по смыслу (тематическое моделирование)
-hak_CP_FINAL_SBER_2020_KeIIdea/data_analysis/groupMessagesLDA.ipynb
+hak_CP_FINAL_SBER_2020_KeyIdea/data_analysis/groupMessagesLDA.ipynb
 
  - текстовая предобработка (очистка сообщений от разметки, выделение слов, лемматизация, стемминг, приведение к нормальной форме, удаление стоп-слов)
  - составление n-gram (для захвата локального контекста)
@@ -10,14 +10,14 @@ hak_CP_FINAL_SBER_2020_KeIIdea/data_analysis/groupMessagesLDA.ipynb
  
  
 #ФИЧА 2: Суммаризация текстовых сообщений (длинный текст -> короткий текст)
-hak_CP_FINAL_SBER_2020_KeIIdea/backend_microservices/textSummarizatiopnGPT.ipynb
+hak_CP_FINAL_SBER_2020_KeyIdea/backend_microservices/textSummarizatiopnGPT.ipynb
 
  - абстрактивная суммаризация (от изначального текста берется порядка 10%, остальное "дописывает" модель, результирующий текст с учетом дописанного моделью "хвоста" короче изначального сообщения)
  - flask сервис с предобученным GPT от SberDevices и SberAI (https://github.com/sberbank-ai/ru-gpts)
  
  
 #ФИЧА 3: Голосовой помощник (по типу Яндекс.Алиса, СберСалют и т.д.)
-hak_CP_FINAL_SBER_2020_KeIIdea/backend_microservices/keyIdeaTelebot.ipynb
+hak_CP_FINAL_SBER_2020_KeyIdea/backend_microservices/keyIdeaTelebot.ipynb
 
  - реализован полный цикл работы с голосом (text_to_speech+speech_to_text)
    - text_to_speech: сообщения читаются помощником, предлагает действия исходя из текущего контекста
