@@ -34,7 +34,6 @@ hak_CP_FINAL_SBER_2020_KeyIdea/backend_microservices/keyIdeaTelebot.ipynb
  - в данным момент бот контактирует только с его разработчиком (@lividhour), прочие сообщения фильтруются
 
 #ФИЧА 4: Интеграция с почтовым сервером (gmail)
-
  - возможно получение писем по протоколу imap: mail = imaplib.IMAP4_SSL('imap.gmail.com'); mail.select('inbox')
  - возможно отправка писем по протоколу smtp: server = smtplib.SMTP('smtp.gmail.com:587'); server.sendmail(fromaddr, toaddr, msg.as_string())
 
