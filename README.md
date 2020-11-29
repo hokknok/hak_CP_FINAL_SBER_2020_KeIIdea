@@ -39,7 +39,8 @@ hak_CP_FINAL_SBER_2020_KeyIdea/backend_microservices/keyIdeaTelebot.ipynb
 
 
 hak_CP_FINAL_SBER_2020_KeyIdea/ЦП_Сбер_KeyIdea ++.pdf - презентация для защиты (финальная версия)
-
+https://drive.google.com/file/d/1g4u1o9SZm7sQyuAA1CSumEWZ6kP4i-cL/view - ссылка на видео работы прототипа
+https://projects.invisionapp.com/prototype/sber-final-1-cki29fxtr002zlf01f6wyky0k/play/585cbf68 -  ссылка на сам прототип
 
 Если вы хотите получить доступ к чатботу, свяжитесь с контактными лицами от команды:
 
