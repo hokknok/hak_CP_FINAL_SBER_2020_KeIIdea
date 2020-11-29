@@ -38,6 +38,9 @@ hak_CP_FINAL_SBER_2020_KeyIdea/backend_microservices/keyIdeaTelebot.ipynb
  - возможно отправка писем по протоколу smtp: server = smtplib.SMTP('smtp.gmail.com:587'); server.sendmail(fromaddr, toaddr, msg.as_string())
 
 
+hak_CP_FINAL_SBER_2020_KeyIdea/ЦП_Сбер_KeyIdea ++.pdf - презентация для защиты (финальная версия)
+
+
 Если вы хотите получить доступ к чатботу, свяжитесь с контактными лицами от команды:
 
 - Васичкин Евгений
