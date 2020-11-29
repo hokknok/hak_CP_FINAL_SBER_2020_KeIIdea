@@ -1,5 +1,7 @@
 # hak_CP_FINAL_SBER_2020_KeyIdea
 
+![alt text](https://github.com/hokknok/hak_CP_FINAL_SBER_2020_KeyIdea/blob/master/main.png)
+
 #ФИЧА 1: Агрегация текстовых сообщений в группы по смыслу (тематическое моделирование)
 hak_CP_FINAL_SBER_2020_KeyIdea/data_analysis/groupMessagesLDA.ipynb
 
